@@ -1,7 +1,8 @@
 on:
   check_suite:
   check_run:
-
+  status:
+  
 jobs:
   execute:
     runs-on: ubuntu-latest
